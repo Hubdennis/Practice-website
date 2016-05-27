@@ -1,0 +1,13 @@
+#footer {
+  height: 50px;
+  margin-top: 50px;
+  background-color: blue;
+  font-size:200%;
+  text-align:center;
+  font-weight: bold;
+}
+
+.jumbotron h1, p{
+text-align: center;
+
+}
